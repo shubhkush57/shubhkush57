@@ -21,7 +21,7 @@
             
 <h2><img src="https://thumbs.gfycat.com/GiftedWateryCony-max-1mb.gif" width="35px"> Tech Stack</h2>
 <p>
-    <div>
+    
         
         <h3>
             <img src="https://img.icons8.com/color/48/000000/programming.png" alt="Programming Languages Icon" width="24" height="24"/>
@@ -181,7 +181,7 @@
                 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
             </a>
         </p>
-    </div>
+   
     
     
 
