@@ -53,7 +53,7 @@
     
         
         <h3>
-            <img src="https://img.icons8.com/color/48/000000/frontend.png" alt="Frontend Development Icon" width="24" height="24"/>
+            
             Frontend Development
         </h3>
         <p>
