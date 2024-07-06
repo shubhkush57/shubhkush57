@@ -205,4 +205,4 @@
 <br>
 <!------------------------------------------Leetcode--------------------------->
 <h2><img src="gif/image.png" width="45px"/>Leetcode Analytics</h2>
-<p align="center"><img src="https://leetcard.jacoblin.cool/shubham_kushwaha?theme=dark&font=Bungee%20Hairline&ext=contest" alt="shubham_kushwaha" /> </p>
+<p align="center"><img src="https://leetcard.jacoblin.cool/shubham_kushwaha?theme=dark&font=Roboto%20Hairline&ext=contest" alt="shubham_kushwaha" /> </p>
