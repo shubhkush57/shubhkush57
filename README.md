@@ -22,7 +22,7 @@
 <h2><img src="https://thumbs.gfycat.com/GiftedWateryCony-max-1mb.gif" width="35px"> Tech Stack</h2>
 <p>
     <div>
-        <!-- Programming Languages -->
+        
         <h3>
             <img src="https://img.icons8.com/color/48/000000/programming.png" alt="Programming Languages Icon" width="24" height="24"/>
             Programming Languages
@@ -51,7 +51,7 @@
             </a>
         </p>
     
-        <!-- Frontend Development -->
+        
         <h3>
             <img src="https://img.icons8.com/color/48/000000/frontend.png" alt="Frontend Development Icon" width="24" height="24"/>
             Frontend Development
