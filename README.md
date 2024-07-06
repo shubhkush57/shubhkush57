@@ -2,12 +2,14 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=anupeshverma&color=blueviolet&label=Profile+Views" alt="views" />
 </div>
 <p align="center"><img width="100%" height="300px" src="intro.png" /></p>        
-<div style="position: relative; padding: 20px; border: 1px solid #ddd; border-radius: 10px;">
+
+
+<div style="position: relative; padding: 20px; border: 1px solid #ddd; border-radius: 10px; overflow: hidden;">
     <h2>
         <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="45px" style="vertical-align: middle;">
         About Me
     </h2>
-    <img src="gif/profileGif.gif" width="50%" height="100%" align="right" style="border-radius: 50%; position: absolute; top: 20px; right: 20px;"/>
+    <img src="gif/profileGif.gif" height="30%" width = "30%" align="right" style="border-radius: 50%; max-width: 100%; display: inline-block; "/>
     <ul style="list-style: none; padding: 0;">
         <li><p>🎓 Graduated my Bachelors in <b>Electronic and Communication Engineering</b> from <b>NIT Allahabad (MNNIT)</b></p></li>
         <li><p>🔭 Aspiring to be a <b>Software Developer Engineer</b></p></li>
@@ -16,6 +18,7 @@
         <li><p>💬 Talk to me about <b>DSA, Web development, Machine Learning, Hackathons, Tech news</b></p></li>
     </ul>
 </div>
+
 
         
             
