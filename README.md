@@ -1,7 +1,7 @@
 <h1 align="center">Hi Geeks,<img src="gif/hi.gif" width="40px"/> I'm Shuhbam Kushwaha </h1>
 <img align="center" src="https://komarev.com/ghpvc/?username=anupeshverma&color=blueviolet&label=Profile+Views" alt="views" />
 </div>
-<p align="center"><img width="80%" height="300px" src="intro.png" /></p>        
+<p align="center"><img width="100%" height="300px" src="intro.png" /></p>        
 <div style="position: relative; padding: 20px; border: 1px solid #ddd; border-radius: 10px;">
     <h2>
         <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="45px" style="vertical-align: middle;">
