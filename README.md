@@ -49,7 +49,7 @@
     </a>
 </p>
 
-## <img src="https://img.icons8.com/color/48/000000/frontend.png" alt="Frontend Development Icon" width="24" height="24"/> Frontend Development
+## <img src="https://img.icons8.com/color/48/000000/frontend.png" alt="" width="24" height="24"/> Frontend Development
 
 <p align="left">
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
@@ -120,7 +120,7 @@
     </a>
 </p>
 
-## <img src="https://img.icons8.com/color/48/000000/framework.png" alt="Framework Icon" width="24" height="24"/> Framework
+## <img src="https://img.icons8.com/color/48/000000/framework.png" alt="" width="24" height="24"/> Framework
 
 <p align="left">
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
@@ -128,7 +128,7 @@
     </a>
 </p>
 
-## <img src="https://img.icons8.com/color/48/000000/software.png" alt="Software Icon" width="24" height="24"/> Software
+## <img src="https://img.icons8.com/color/48/000000/software.png" alt="" width="24" height="24"/> Software
 
 <p align="left">
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
