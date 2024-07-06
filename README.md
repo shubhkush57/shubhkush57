@@ -49,7 +49,7 @@
     </a>
 </p>
 
-## <img src="https://img.icons8.com/color/48/000000/frontend.png" alt="" width="24" height="24"/> Frontend Development
+## <img src="https://img.icons8.com/color/48/000000/frontend.png"  width="24" height="24"/> Frontend Development
 
 <p align="left">
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
