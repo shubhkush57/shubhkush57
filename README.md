@@ -1,4 +1,3 @@
-<h1 align="center">Hi Geeks,<img src="gif/hi.gif" width="40px"/> I'm Shuhbam Kushwaha </h1>
 <img align="center" src="https://komarev.com/ghpvc/?username=anupeshverma&color=blueviolet&label=Profile+Views" alt="views" />
 </div>
 <p align="center"><img width="100%" height="300px" src="intro.png" /></p>        
@@ -204,5 +203,5 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=shubhkush57&theme=onedark" alt="shubhkush57" /> </p>
 <br>
 <!------------------------------------------Leetcode--------------------------->
-<h2><img src="gif/image.png" width="45px"/>Leetcode Analytics</h2>
+<h2><img src="gif/images.png" width="45px"/>Leetcode Analytics</h2>
 <p align="center"><img src="https://leetcard.jacoblin.cool/shubham_kushwaha?theme=dark&font=Roboto%20Hairline&ext=contest" alt="shubham_kushwaha" /> </p>
