@@ -19,7 +19,7 @@
 
         
             
-<h2><img src="https://thumbs.gfycat.com/GiftedWateryCony-max-1mb.gif" width="35px"> Tech Stack</h2>
+
 <div>
     
         
