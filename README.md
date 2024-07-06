@@ -202,7 +202,7 @@
 <!------------------------------------------ Github Trophy ----------------------------------->
 <h2><img src="gif/trophy.gif" width="45px"/>Github Trophies</h2>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=shubhkush57&theme=onedark" alt="shubhkush57" /> </p>
+<br>
 <!------------------------------------------Leetcode--------------------------->
-![Leetcode Stats](https://leetcard.jacoblin.cool/shubham_kushwaha)
-<h2><img src="gif/trophy.gif" width="45px"/>Leetcode Analytics</h2>
+<h2><img src="gif/image.png" width="45px"/>Leetcode Analytics</h2>
 <p align="center"><img src="https://leetcard.jacoblin.cool/shubham_kushwaha?theme=dark&font=Bungee%20Hairline&ext=contest" alt="shubham_kushwaha" /> </p>
