@@ -1,4 +1,4 @@
-<img align="center" src="https://komarev.com/ghpvc/?username=anupeshverma&color=blueviolet&label=Profile+Views" alt="views" />
+<img align="center" src="https://komarev.com/ghpvc/?username=shubhkush57&color=blueviolet&label=Profile+Views" alt="views" />
 </div>
 <p align="center"><img width="100%" height="300px" src="intro.png" /></p>        
 
